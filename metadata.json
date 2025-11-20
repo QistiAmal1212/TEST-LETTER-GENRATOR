@@ -1,0 +1,5 @@
+{
+  "name": "LetterFlow AI",
+  "description": "A smart letter builder that uses Gemini to analyze templates, auto-fill data, and edit documents in a Word-like interface.",
+  "requestFramePermissions": []
+}
